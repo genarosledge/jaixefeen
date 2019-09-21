@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ievootheiy.annmango.com/sitemap.xml
